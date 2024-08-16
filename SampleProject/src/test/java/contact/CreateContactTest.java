@@ -12,5 +12,9 @@ public class CreateContactTest {
 		System.out.println("modifycontactTest executed");
 		//chnge
 	}
+	@Test
+	public void deletecontactTest() {
+		System.out.println("deletecontactTest executed");
 	}
+}
 
