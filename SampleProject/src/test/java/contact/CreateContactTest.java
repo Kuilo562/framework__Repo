@@ -9,6 +9,10 @@ public class CreateContactTest {
 		String UserName=System.getProperty("username");
 		String PWD=System.getProperty("pwd");
 		String Browser=System.getProperty("browser");
+		System.out.println(Browser);
+		System.out.println(PWD);
+		System.out.println( UserName);
+		System.out.println(URL);
 		System.out.println("createcontactTest executed");
 	}
 	@Test
