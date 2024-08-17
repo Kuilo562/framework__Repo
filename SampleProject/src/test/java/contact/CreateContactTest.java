@@ -23,6 +23,7 @@ public class CreateContactTest {
 	@Test
 	public void deletecontactTest() {
 		System.out.println("deletecontactTest executed");
+		System.out.println("deletecontactTest executed");
 	}
 }
 
