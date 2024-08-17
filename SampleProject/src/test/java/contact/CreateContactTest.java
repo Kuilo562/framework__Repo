@@ -25,5 +25,9 @@ public class CreateContactTest {
 		System.out.println("deletecontactTest executed");
 		System.out.println("deletecontactTest executed");
 	}
+	public void contactTest() {
+		System.out.println("deletecontactTest executed");
+		System.out.println("deletecontactTest executed");
+}
 }
 
