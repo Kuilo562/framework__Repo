@@ -21,5 +21,10 @@ public class CreateOrgTest {
 		
 	//chnges
 	}
+	public void deleteOrgTest() {
+		System.out.println("modifyOrgTest executed");
+		
+	//chnges
+	}
 	}
 
